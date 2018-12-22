@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="vote_count_and_vote_average">%1$s/10 (%2$d votes)</string>
+    <string name="refresh">Retry</string>
+    <string name="no_internet">Ooops! Check your internet connection, and retry. </string>
+    <string name="poster">poster</string>
+</resources>
